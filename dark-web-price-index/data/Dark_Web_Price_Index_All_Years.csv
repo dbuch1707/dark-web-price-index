@@ -1,0 +1,74 @@
+Year,Category,Product,Country,Organization,Price_Low_USD,Price_High_USD,Price_Mid_USD,Price_Note,Source,Is_Estimated
+2020,Forged Documents – Physical,Passport – Physical,Malta,Government Body,2985,2985,2985,Actual,Privacy Affairs 2020,No
+2020,Credit Card Data,Credit Card – Standard,United States,Various,100,500,300.0,Actual,Privacy Affairs 2020,No
+2020,DDoS Attacks,DDoS Attack – 24hr,United States,Various,1200,1800,1500.0,Actual,Privacy Affairs 2020,No
+2020,Email Database Dumps,Email DB Dump,United States,Various,250,450,350.0,Actual,Privacy Affairs 2020,No
+2021,Forged Documents – Physical,Passport – Physical,Malta,Government Body,26030,26030,26030,Actual,Privacy Affairs 2021,No
+2021,Forged Documents – Physical,Passport – Physical,France,Government Body,19000,19000,19000,Actual,Privacy Affairs 2021,No
+2021,Credit Card Data,Credit Card – Standard,United States,Various,800,1100,950.0,Actual,Privacy Affairs 2021,No
+2021,Crypto Accounts,Crypto Account – Verified,United States,Various,3500,4200,3850.0,Actual,Privacy Affairs 2021,No
+2021,DDoS Attacks,DDoS Attack – 24hr,United States,Various,1800,2400,2100.0,Actual,Privacy Affairs 2021,No
+2021,Email Database Dumps,Email DB Dump,United States,Various,300,400,350.0,Actual,Privacy Affairs 2021,No
+2022,Forged Documents – Physical,Passport – Physical,Malta,Government Body,28010,28010,28010,Actual,Privacy Affairs 2022,No
+2022,Credit Card Data,Credit Card – Standard,United States,Various,400,700,550.0,Actual,Privacy Affairs 2022,No
+2022,Crypto Accounts,Crypto Account – Verified,United States,Kraken,1800,2600,2200.0,Actual,Privacy Affairs 2022,No
+2022,DDoS Attacks,DDoS Attack – 24hr,United States,Various,1600,2100,1850.0,Actual,Privacy Affairs 2022,No
+2022,Email Database Dumps,Email DB Dump,United States,Various,280,380,330.0,Actual,Privacy Affairs 2022,No
+2023,Forged Documents – Physical,Passport – Physical,Malta,Government Body,29150,29150,29150,Actual,Privacy Affairs 2023,No
+2023,Credit Card Data,Credit Card – Standard,United States,Various,500,750,625.0,Actual,Privacy Affairs 2023,No
+2023,Crypto Accounts,Crypto Account – Verified,United States,Kraken,12000,17000,14500.0,Actual,Privacy Affairs 2023,No
+2023,DDoS Attacks,DDoS Attack – 24hr,United States,Various,1200,1800,1500.0,Actual,Privacy Affairs 2023,No
+2023,Email Database Dumps,Email DB Dump,United States,Various,280,380,330.0,Actual,Privacy Affairs 2023,No
+2024,Forged Documents – Physical,Passport – Physical,Malta,Government Body,29150,29150,29150,Estimated – linear interpolation 2023 to 2025,Interpolated,Yes
+2024,Forged Documents – Physical,Passport – Physical,France,Government Body,19000,21000,20000.0,Estimated – linear interpolation 2023 to 2025,Interpolated,Yes
+2024,Credit Card Data,Credit Card – Standard,United States,Various,255,395,325.0,Estimated – linear interpolation 2023 to 2025,Interpolated,Yes
+2024,Credit Card Data,Credit Card – Standard,United Kingdom,Various,15,60,37.5,Estimated – held from nearest known data point,Interpolated,Yes
+2024,Credit Card Data,Credit Card – Standard,Germany,Various,15,52,33.5,Estimated – held from nearest known data point,Interpolated,Yes
+2024,Credit Card Data,Credit Card – Standard,Australia,Various,18,52,35.0,Estimated – held from nearest known data point,Interpolated,Yes
+2024,Crypto Accounts,Crypto Account – Verified,United States,Kraken,6450,9085,7767.5,Estimated – linear interpolation 2023 to 2025,Interpolated,Yes
+2024,Crypto Accounts,Coinbase Account – Verified,United States,Coinbase,120,250,185.0,Estimated – held from 2025 data point,Interpolated,Yes
+2024,Crypto Accounts,Binance Account – Verified,United States,Binance,200,400,300.0,Estimated – held from 2025 data point,Interpolated,Yes
+2024,DDoS Attacks,DDoS Attack – 24hr,United States,Various,620,925,772.5,Estimated – linear interpolation 2023 to 2025,Interpolated,Yes
+2024,Email Database Dumps,Email DB Dump,United States,Various,280,380,330.0,Estimated – held from 2023 last known,Interpolated,Yes
+2024,Identity – PII,Social Security Number (SSN),United States,Various,2,8,5.0,Estimated – slightly above 2025 floor,Interpolated,Yes
+2024,Identity – PII,Full Identity Package (Fullz),United States,Various,25,110,67.5,Estimated – held near 2025 range,Interpolated,Yes
+2024,Identity – PII,Driver's License Scan,United States,Various,75,175,125.0,Estimated – held near 2025 range,Interpolated,Yes
+2024,Identity – PII,Medical Record – Complete,United States,Various,350,500,425.0,Estimated – held near 2025 range,Interpolated,Yes
+2024,Financial Accounts,Online Bank Login – Low Balance,United States,Various,200,500,350.0,Estimated – stable category,Interpolated,Yes
+2024,Financial Accounts,Online Bank Login – High Balance,United States,Various,1000,2500,1750.0,Estimated – slightly above 2025,Interpolated,Yes
+2024,Financial Accounts,PayPal Account – Verified,United States,PayPal,1600,2200,1900.0,Estimated – stable near 2025,Interpolated,Yes
+2024,Hacked Services,Gmail Account,United States,Google,62,70,66.0,Estimated – stable category,Interpolated,Yes
+2024,Hacked Services,Facebook Account,United States,Meta,45,55,50.0,Estimated – stable category,Interpolated,Yes
+2024,Cybercrime Services,DDoS Attack – 24hr Unprotected,United States,Various,45,60,52.5,Estimated – near 2025 commoditised price,Interpolated,Yes
+2024,Cybercrime Services,Infostealer Malware Subscription,United States,Various,950,1100,1025.0,Estimated – near 2025 range,Interpolated,Yes
+2024,Corporate Access,VPN Login – Basic User,United States,Various,250,1000,625.0,Estimated – growing IAB market,Interpolated,Yes
+2024,Corporate Access,Local Admin Access,United States,Various,1500,6000,3750.0,Estimated – growing IAB market,Interpolated,Yes
+2024,Corporate Access,Domain Admin / Cloud Admin,United States,Various,15000,120000,67500.0,Estimated – IAB market rapidly expanding,Interpolated,Yes
+2024,Corporate Access,Zero-Day Exploit – Enterprise,United States,Various,12000,200000,106000.0,Estimated – slow moving category,Interpolated,Yes
+2025,Identity – PII,Social Security Number (SSN),United States,Various,1,6,3.5,Actual,DeepStrike Aug 2025,No
+2025,Identity – PII,Full Identity Package (Fullz),United States,Various,20,100,60.0,Actual,DeepStrike Aug 2025,No
+2025,Identity – PII,Driver's License Scan,United States,Various,70,165,117.5,Actual,DeepStrike Aug 2025,No
+2025,Identity – PII,Passport Scan,United States,Various,100,100,100,Actual,DeepStrike Aug 2025,No
+2025,Identity – PII,Medical Record – Complete,United States,Various,300,500,400.0,Actual,DeepStrike Aug 2025,No
+2025,Credit Card Data,Credit Card – Standard,United States,Various,10,40,25.0,Actual,DeepStrike Aug 2025,No
+2025,Credit Card Data,Credit Card – High Limit ($5K+),United States,Various,110,120,115.0,Actual,DeepStrike Aug 2025,No
+2025,Credit Card Data,Credit Card – Standard,United Kingdom,Various,10,60,35.0,Actual,DeepStrike Aug 2025,No
+2025,Credit Card Data,Credit Card – Standard,Germany,Various,10,50,30.0,Actual,DeepStrike Aug 2025,No
+2025,Credit Card Data,Credit Card – Standard,Australia,Various,15,50,32.5,Actual,DeepStrike Aug 2025,No
+2025,Financial Accounts,Online Bank Login – Low Balance,United States,Various,200,500,350.0,Actual,DeepStrike Aug 2025,No
+2025,Financial Accounts,Online Bank Login – High Balance,United States,Various,1000,3000,2000.0,Actual,DeepStrike Aug 2025,No
+2025,Financial Accounts,PayPal Account – Verified,United States,PayPal,1500,2200,1850.0,Actual,DeepStrike Aug 2025,No
+2025,Crypto Accounts,Coinbase Account – Verified,United States,Coinbase,120,250,185.0,Actual,DeepStrike Aug 2025,No
+2025,Crypto Accounts,Kraken Account – KYC High,United States,Kraken,900,1170,1035.0,Actual,DeepStrike Aug 2025,No
+2025,Crypto Accounts,Binance Account – Verified,United States,Binance,200,400,300.0,Actual,DeepStrike Aug 2025,No
+2025,Hacked Services,Gmail Account,United States,Google,60,65,62.5,Actual,DeepStrike Aug 2025,No
+2025,Hacked Services,Facebook Account,United States,Meta,45,50,47.5,Actual,DeepStrike Aug 2025,No
+2025,Cybercrime Services,DDoS Attack – 24hr Unprotected,United States,Various,40,50,45.0,Actual,DeepStrike Aug 2025,No
+2025,Cybercrime Services,Infostealer Malware Subscription,United States,Various,900,1100,1000.0,Actual,DeepStrike Aug 2025,No
+2025,Cybercrime Services,Ransomware-as-a-Service,United States,Various,40,1000,520.0,Actual,DeepStrike Aug 2025,No
+2025,Corporate Access,VPN Login – Basic User,United States,Various,200,1000,600.0,Actual,DeepStrike Aug 2025,No
+2025,Corporate Access,Local Admin Access,United States,Various,1000,5000,3000.0,Actual,DeepStrike Aug 2025,No
+2025,Corporate Access,Domain Admin / Cloud Admin,United States,Various,10000,100000,55000.0,Actual,DeepStrike Aug 2025,No
+2025,Corporate Access,Zero-Day Exploit – Enterprise,United States,Various,10000,200000,105000.0,Actual,DeepStrike Aug 2025,No
+2025,Forged Documents – Physical,Passport – Physical Forgery,Malta,Government Body,29150,29150,29150,Actual – estimated from 2023 trend,Privacy Affairs 2023 est.,No
+2025,Forged Documents – Physical,Passport – Physical Forgery,France,Government Body,19000,22000,20500.0,Actual – estimated from 2023 trend,Privacy Affairs 2023 est.,No
