@@ -1,0 +1,8 @@
+# Dark Web Price Index — Python dependencies
+# Install with: pip install -r requirements.txt
+
+requests>=2.31.0        # HTTP requests for scraping
+beautifulsoup4>=4.12.0  # HTML parsing
+lxml>=4.9.0             # Fast HTML parser (used by BeautifulSoup)
+pandas>=2.0.0           # Data manipulation
+openpyxl>=3.1.0         # Excel read/write
